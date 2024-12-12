@@ -1,0 +1,2 @@
+cross validation video -   https://moringa.instructure.com/courses/895/pages/short-video-cross-validation?module_item_id=144519
+Bias-Variance Tradeoff - https://moringa.instructure.com/courses/895/pages/short-video-bias-variance-tradeoff?module_item_id=144522
