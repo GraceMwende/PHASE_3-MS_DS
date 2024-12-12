@@ -1,0 +1,2 @@
+https://www.kaggle.com/competitions/prekaggle-titanic
+https://www.kaggle.com/competitions/st-2-ml-bootcamp
