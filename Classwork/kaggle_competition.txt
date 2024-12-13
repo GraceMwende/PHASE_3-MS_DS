@@ -1,2 +1,3 @@
 https://www.kaggle.com/competitions/prekaggle-titanic
 https://www.kaggle.com/competitions/st-2-ml-bootcamp
+https://www.kaggle.com/datasets?search=classification&fileType=csv&tags=13302-Classification&minUsabilityRating=8.00+or+higher&feedbackIds=8
